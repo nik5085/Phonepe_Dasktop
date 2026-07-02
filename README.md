@@ -34,5 +34,6 @@ This project presents an **interactive Power BI dashboard** built to analyze Pho
 ## 🎯 Conclusion
 The dashboard demonstrates how **Power BI can transform raw data into actionable insights** for digital payment platforms. It highlights trends, user behavior, and service performance, supporting strategic business decisions.
 
+
 <img width="1320" height="737" alt="power Bi project" src="https://github.com/user-attachments/assets/b469a3d2-5e8f-4436-aa75-d5b424841eb7" />
 
